@@ -1,0 +1,4 @@
+Commands:
+
+exit / e: Exit the programm
+help: Show command list
